@@ -1,6 +1,7 @@
 # ucsb-cs56-gauchocourses
 course planner
 
+
 Wesley
 Edward
 Changsheng
@@ -11,3 +12,6 @@ Jiawei
 Agreements: 
 1. Split up the work evenly beforehand
 2. Show up to lecture and section
+=======
+UCSB courses. Set schedule for next quarter.
+
